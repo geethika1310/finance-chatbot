@@ -1,0 +1,8 @@
+streamlit
+langchain
+llama-cpp-python
+openai-whisper
+gTTS
+pydub
+matplotlib
+chromadb
